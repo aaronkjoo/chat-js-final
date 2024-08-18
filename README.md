@@ -1,7 +1,7 @@
 <h1>JS Chat Website 💬 👾</h1>
 
 
-This is a chat UI built entirely with Javascript (React specifically). 😃
+This is a chat UI built entirely with Javascript (React specifically) 😃
 
 All you need to run the webstie is have NPM installed on your computer!
 
