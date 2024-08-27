@@ -16,6 +16,6 @@ To run the website, clone the directory, cd into it with your terminal:
 7. Then, once all your dependencies are installed, run the command "npm run dev".
 8. Control + click on the http server which will open a new tab in your browser.
 
-You can now create an account, create chat messages, and login as another user, and talk to each other.
+You can now create an account, create chat messages, and login as another user, and talk to each other!
 
 Done! 🎉
